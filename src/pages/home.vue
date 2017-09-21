@@ -30,6 +30,17 @@
         </div>
       </router-link>
     </div>
+
+
+    <div class="preview">
+      <router-link v-bind:to="'/resume/oblique2'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-oblique.png" />
+          <span>oblique2</span>
+        </div>
+      </router-link>
+    </div>
+
     <div class="preview">
       <router-link v-bind:to="'/resume/side-bar'">
         <div class="preview-wrapper">

@@ -4,6 +4,7 @@ const en = {
     contact: 'Contact',
     experience: 'Experience',
     education: 'Education',
+    projects:'Projects',
     skills: 'Skills',
     about: 'About me'
   }

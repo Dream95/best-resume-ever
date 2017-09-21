@@ -4,6 +4,7 @@ const cn = {
     contact: '联系方式',
     experience: '工作经历',
     education: '教育经历',
+    projects:'项目经验',
     skills: '技能专长',
     about: 'About me' // Translation needed!
   }
