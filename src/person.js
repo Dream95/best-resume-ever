@@ -29,12 +29,12 @@ export const PERSON = {
     {
       project : '医院库存系统',
       timeperiod :'2016.12 - 2017.03',
-      description :'医院库存系统对外接口的开发',
+      description :'医院库存系统对外webservice接口的开发',
     },
     {
      project : '双向转诊系统',
      timeperiod :'2017.04 - 2017.06',
-     description :'基于ssm框架的 ',
+     description :'基于ssm框架的上下级医院转诊系统',
     }
   ],
   // skill level goes 0 to 100
@@ -49,13 +49,9 @@ export const PERSON = {
     {
       name: 'JavaScript',
       level: '97'
-    },
-    {
-      name: 'Linux',
-      level: '93'
     }
   ],
-  skillDescription: '熟练使用springboot开发web项目',
+  skillDescription: '关注新技术,比如docker,springboot。\n这个简历是由vue生成',
   contact: {
     email: '864197662@qq.com',
     phone: '15151838621',
