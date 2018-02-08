@@ -14,10 +14,14 @@ export const PERSON = {
   experience: [{
       company: '南京明基医院有限公司',
       position: '软件开发工程师',
-      timeperiod: '2016年-9月——至今',
+      timeperiod: '2016年8月——2017年3月',
       description: 'HSI系统开发与维护'
-    },
-
+    },{
+    company: '青岛菩提信息技术有限公司南京技术中心',
+    position: '软件开发工程师',
+    timeperiod: '2017年3月——至今',
+    description: '医院相关系统开发与维护'
+  }
   ],
   education: [{
       degree: '南京晓庄学院',
@@ -35,6 +39,11 @@ export const PERSON = {
      project : '双向转诊系统',
      timeperiod :'2017.04 - 2017.06',
      description :'基于ssm框架的上下级医院转诊系统',
+    },
+    {
+      project : '医院绩效以及科损益系统',
+      timeperiod :'2017.08 -至今',
+      description :'基于springBoot的医院OA系统',
     }
   ],
   // skill level goes 0 to 100
@@ -51,7 +60,9 @@ export const PERSON = {
       level: '97'
     }
   ],
-  skillDescription: '关注新技术,比如docker,springboot。\n这个简历是由vue生成',
+  skillDescription: '熟悉JavaWeb开发的技术,' +
+    '深入了解过知名开源框架.'+
+  '同时也比较关注新技术,比如docker等。',
   contact: {
     email: '864197662@qq.com',
     phone: '15151838621',
