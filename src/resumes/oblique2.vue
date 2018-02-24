@@ -22,6 +22,10 @@
         <div class="row">
           <span class="degree">{{education.degree}}</span>
         </div>
+
+        <div class="row">
+          <span class="degree">{{education.timeperiod}}</span>
+        </div>
         <div class="row">
           <span class="degree-description">{{education.description}}</span>
         </div>
@@ -72,6 +76,8 @@
 
     <div class="skills-other">
       <span>{{person.skillDescription}} </span>
+      <br>
+      <span>{{person.skillDescription2}} </span>
     </div>
 
     <div class="contact">

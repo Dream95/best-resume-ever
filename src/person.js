@@ -15,7 +15,7 @@ export const PERSON = {
       company: '南京明基医院有限公司',
       position: '软件开发工程师',
       timeperiod: '2016年8月——2017年3月',
-      description: 'HSI系统开发与维护'
+      description: 'HIS系统开发与维护'
     },{
     company: '青岛菩提信息技术有限公司南京技术中心',
     position: '软件开发工程师',
@@ -33,7 +33,7 @@ export const PERSON = {
     {
       project : '医院库存系统',
       timeperiod :'2016.12 - 2017.03',
-      description :'医院库存系统对外webservice接口的开发',
+      description :'医院库存系统对外接口的开发',
     },
     {
      project : '双向转诊系统',
@@ -43,7 +43,7 @@ export const PERSON = {
     {
       project : '医院绩效以及科损益系统',
       timeperiod :'2017.08 -至今',
-      description :'基于springBoot的医院OA系统',
+      description :'基于springBoot的医院报表类系统',
     }
   ],
   // skill level goes 0 to 100
@@ -58,10 +58,14 @@ export const PERSON = {
     {
       name: 'JavaScript',
       level: '97'
+    },
+    {
+      name: 'Linux',
+      level: '93'
     }
   ],
   skillDescription: '熟悉JavaWeb开发的技术,' +
-    '深入了解过知名开源框架.'+
+    '了解过知名开源框架源码.'+
   '同时也比较关注新技术,比如docker等。',
   contact: {
     email: '864197662@qq.com',
