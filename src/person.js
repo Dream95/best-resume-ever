@@ -31,9 +31,9 @@ export const PERSON = {
   ],
   projects :[
     {
-      project : '医院库存系统',
+      project : 'SPD医院物流系统',
       timeperiod :'2016.12 - 2017.03',
-      description :'医院库存系统对外接口的开发',
+      description :'主要负责医院库存系统对外接口的开发',
     },
     {
      project : '双向转诊系统',
@@ -41,9 +41,9 @@ export const PERSON = {
      description :'基于ssm框架的上下级医院转诊系统',
     },
     {
-      project : '医院绩效以及科损益系统',
+      project : '昆明市第一人民医院绩效以及科损益系统',
       timeperiod :'2017.08 -至今',
-      description :'基于springBoot的医院报表类系统',
+      description :'使用spingBoot搭建开发平台，采用ssm框架开发。mysql做数据存储，redis做用户缓存。选择Undertow做Web容器。',
     }
   ],
   // skill level goes 0 to 100
@@ -66,7 +66,7 @@ export const PERSON = {
   ],
   skillDescription: '熟悉JavaWeb开发的技术,' +
     '了解过知名开源框架源码.'+
-  '同时也比较关注新技术,比如docker等。',
+  '同时也比较关注比如容器等新的技术。',
   contact: {
     email: '864197662@qq.com',
     phone: '15151838621',
